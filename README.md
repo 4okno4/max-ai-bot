@@ -13,3 +13,4 @@
 2. Запустить:
    ```bash
    docker-compose up --build
+3. Проверить Swagger: http://localhost:8000/docs
