@@ -1,2 +1,15 @@
 # max-1c-bot
 Интеллектуальный чат-бот в мессенджере MAX для поиска и подбора товаров в системе 1С
+
+## Стек
+- Python / FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- MAX API
+
+## Запуск локально
+1. Создать `.env` по образцу.
+2. Запустить:
+   ```bash
+   docker-compose up --build
